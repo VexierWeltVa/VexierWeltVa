@@ -1,5 +1,20 @@
-<div align="center">
+<h1>有需求联系雷蒙德：</h1>
 
+[Raymond](https://github.com/Ray-maker86)
+
+---
+<div align="center">
+📉 SAN值波动警告
+<table> <tr> <th>状态</th> <th>进度</th> <th>██</th> </tr> <tr> <td>摸鱼指数</td> <td><code>██████████ 100%</code></td> <td>课上睡觉王者</td> </tr> <tr> <td>咖啡因浓度</td> <td><code>█████░░░░░ 50%</code></td> <td>停尸间就位</td> </tr> <tr> <td>抽象程度</td> <td><code>████████░░ 80%</code></td> <td>量子波动冲浪</td> </tr> <tr> <td>发癫等级</td> <td><code>██████████ 100%</code></td> <td>芜湖起飞！</td> </tr> </table>
+🌈 终极警告：长期接触本README可能导致产生git commit -m "啊？我代码呢？"的冲动
+
+---
+<div align="center"> <!-- 自毁倒计时 --> <h3>⚠️ 系统警告 ⚠️</h3> <p>检测到持续发癫行为<br>本README将在 <span id="destroy-timer">10</span> 秒后生成</p> <pre> +----------------------------+ | 摸鱼一时爽 | | 一直摸鱼一直爽 | | 老师来啦！快切屏！ | +----------------------------+ </pre></div>
+
+<div align="center"> <h1>啊？我原来有README吗？</h1> <p>是不是给你脸给多了？</p> <img src="https://img.shields.io/badge/状态-删库跑路中-red" /> </div>
+
+
+---
   
   <!-- 精神状态监控 -->
   <p>
@@ -9,6 +24,7 @@
     <img src="https://img.shields.io/badge/键盘磨损度-战损版-yellow" />
   </p>
 </div>
+---
 
 ---
 
@@ -27,7 +43,6 @@ class 我的大脑:
         if 时间 == "凌晨三点":
             print("哎，我有一计！")
             return "熬夜猝死计"
-        return f"临时猝死（{啊啊啊啊}版）"
 
     def 写作业(self):
         while True:
